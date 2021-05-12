@@ -1,0 +1,17 @@
+﻿  Bullet.cpp
+  Enemy.cpp
+D:\Users\Kappa\Visual studio projects\SfmlTest\Enemy.cpp(10,78): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  Game.cpp
+D:\Users\Kappa\Visual studio projects\SfmlTest\Game.cpp(43,52): warning C4244: аргумент: преобразование "T" в "float", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+  Player.cpp
+  SfmlTest.cpp
+D:\Users\Kappa\Visual studio projects\SfmlTest\SfmlTest.cpp(6,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 250 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  SfmlTest.vcxproj -> D:\Users\Kappa\Visual studio projects\SfmlTest\Release\SfmlTest.exe
